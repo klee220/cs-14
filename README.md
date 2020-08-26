@@ -1,5 +1,5 @@
-# cs-14(introduction to data structures and algorithms)
-Projects from CS 14 taken during Winter 2020.
+# cs-14
+Projects from my Introduction to Data Structures and Algorithms course taken during Winter 2020.
 
 week 1: review and intro
 
